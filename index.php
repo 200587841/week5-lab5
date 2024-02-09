@@ -5,8 +5,8 @@
 		<title>Home | COMP1002 HTML, CSS, and JS Fundamentals</title>
 		<meta name="author" content="Natalia Selestrini Dias" />
 		<meta name="description" content="week 5 - lab 5">
-		<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
-		<link rel="stylesheet" href="css/styles.css" />
+		<link rel="shortcut icon" href="favicon.png" type="x-icon" />
+		<link rel="stylesheet" href="styles.css" />
 	</head>
 	<body>
 		<!-- Page-level header -->
@@ -17,7 +17,7 @@
 <!-- STEP 8: Add an appropriate alt attribute to the IMG element above, describing the image -->
 <!-- STEP 9: Validate your completed page at https://validator.w3.org/ and repair any errors - then .zip all your files up and submit your work -->
 <!-- STEP 10: Upload all files for this lab to your Web server in https://myserver.azurewebsites.net/week5/lab5/ (URL example would be on a Microsoft Azure server instance) -->
-			<img  src="images/html-logo.svg" alt="HTML written similar as lego logo. The letters are white, with black and yellow borders over a red square."
+			<img  src="html-logo.svg" alt="HTML written similar as lego logo. The letters are white, with black and yellow borders over a red square."
 			width="200" height="200" title="HTML"/>		
 
 			<h1>HTML, CSS, and JS Fundamentals</h1>
@@ -74,7 +74,7 @@
 			</aside>
 			<!-- Mini figure by Vanja (Public Domain) https://openclipart.org/detail/224315/clip-is-a-brick-minifig-4 -->
 			<figure>
-			<img src="images/mini-figure.png" alt="lego mini figure without hair with white clothes" width="176" height="285">
+			<img src="mini-figure.png" alt="lego mini figure without hair with white clothes" width="176" height="285">
 			<figcaption> Mini figure by Vanja (Public Domain)</figcaption>
 			</figure>
 		</main>
