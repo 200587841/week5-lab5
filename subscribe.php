@@ -5,8 +5,8 @@
 		<title>Subscribe | COMP1002 HTML, CSS, and JS Fundamentals</title>
 		<meta name="author" content="Natalia Selestrini Dias" />
 		<meta name="description" content="week 5 - lab 5">
-		<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
-		<link rel="stylesheet" href="css/styles.css" />
+		<link rel="shortcut icon" href="favicon.png" type="x-icon" />
+		<link rel="stylesheet" href="styles.css" />
 	</head>
 	<body>
 		<!-- Page-level header -->
